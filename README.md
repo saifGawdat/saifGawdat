@@ -2,7 +2,9 @@
 
 # Hi, I'm Saif Gawdat 👋
 
-**Full-Stack Developer · Node.js · Go · React · Next.js**
+**Full-Stack Developer · Toolmaker · Open Source Contributor**
+
+Node.js · Go · React · Next.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-gawdat-4b70b1379/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seafgawdat@gmail.com)
@@ -18,6 +20,8 @@ I build and ship full-stack applications used by real clients — from scalable 
 
 - 💼 Full-Stack Developer at **Wink**
 - 🎓 Internship experience at the **National Telecommunication Institute (NTI)**
+- 🛠️ Toolmaker — I build developer tools that make everyday work faster
+- 🌍 Open source contributor
 - 🧱 Focused on scalable APIs, clean architecture, and maintainable code
 - 🚀 I enjoy turning ideas into production-ready products and solving hard problems
 - 🌱 Always learning, always building
