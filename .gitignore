@@ -1,1 +1,5 @@
 Nothing should be ignored in this case, as only a README.md file was modified and no build artifacts, dependencies, or temporary files were present in the changes.
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
